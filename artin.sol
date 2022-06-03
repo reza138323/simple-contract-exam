@@ -1,6 +1,6 @@
 //jalase 2 class solidity
 
-pragma solidity 0.8.7;
+pragma solidity 0.8.14;
 
 
 contract artin {
