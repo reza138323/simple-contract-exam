@@ -3,10 +3,9 @@
 pragma solidity 0.8.14;
 
 
-contract artin {
+contract rez {
 
    
-
    struct ETHpayAmount{
         uint Amount;   
         bool isPaid; 
