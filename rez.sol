@@ -10,6 +10,7 @@ contract rez {
         uint Amount;   
         bool isPaid; 
      }
+     
  
     mapping(address=>ETHpayAmount)private _ETHpay;
 
